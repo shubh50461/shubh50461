@@ -1,4 +1,12 @@
-# 💫 About Me:
+# [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=650&lines=Hyy+there,+I'm+Shubham+Kumar;Artificial+Intelligence+%7C+Machine+Learning+%7C+Developer)](https://git.io/typing-svg)
+
+
+
+
+
+
+
+
 Artificial Intelligence | Machine Learning | Python Certified | Data Science | Web Development | SQL | Git & GitHub | Best Performer of the Month | JAVA
 
 
