@@ -1,6 +1,6 @@
 # [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=30&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=700&lines=Hi+there,+I'm+Shubham+Kumar)](https://git.io/typing-svg)
 
----
+
 
 ## 
 Artificial Intelligence | Machine Learning | Python Certified | Data Science | Web Development | SQL | Git & GitHub | JAVA | Best Performer of the Month
@@ -53,4 +53,4 @@ Artificial Intelligence | Machine Learning | Python Certified | Data Science | W
 
 ---
 
-[![Visitor Count](https://visitcount.itsvg.in/api?id=shubh50461&icon=0&color=0)](https://visitcount.itsvg.in)
+
