@@ -15,7 +15,7 @@ Artificial Intelligence | Machine Learning | Python Certified | Data Science | W
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=shubh50461&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-##
+
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=shubh50461&limit=5&theme=dark&combine_all_yearly_contributions=true)
