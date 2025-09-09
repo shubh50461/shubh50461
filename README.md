@@ -6,12 +6,12 @@
 Artificial Intelligence | Machine Learning | Python Certified | Data Science | Web Development | SQL | Git & GitHub | JAVA | Best Performer of the Month
 
 ---
-
 ## 🌐 Connect with Me
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_shubham_kumarsingh_) 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shubham50461/) 
 [![CodePen](https://img.shields.io/badge/CodePen-000000?logo=codepen&logoColor=white)](https://codepen.io/tgbrywbv-the-bashful) 
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:shubham50461@gmail.com)
+
 
 ---
 
