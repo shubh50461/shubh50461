@@ -1,16 +1,16 @@
 # [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=30&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=700&lines=Hi+there,+I'm+Shubham+Kumar)](https://git.io/typing-svg)
 
+---
 
-
-## 
+## 👨‍💻 About Me
 Artificial Intelligence | Machine Learning | Python Certified | Data Science | Web Development | SQL | Git & GitHub | JAVA | Best Performer of the Month
 
 ---
 
 ## 🌐 Connect with Me
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_shubham_kumarsingh_) 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/shubh50461) 
-[![Codepen](https://img.shields.io/badge/Codepen-000000?logo=codepen&logoColor=white)](https://codepen.io/@tgbrywbv-the-bashful) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shubham50461/) 
+[![CodePen](https://img.shields.io/badge/CodePen-000000?logo=codepen&logoColor=white)](https://codepen.io/tgbrywbv-the-bashful) 
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:shubham50461@gmail.com)
 
 ---
@@ -50,7 +50,3 @@ Artificial Intelligence | Machine Learning | Python Certified | Data Science | W
 
 ## 🔝 Top Contributed Repositories
 ![Top Repos](https://github-contributor-stats.vercel.app/api?username=shubh50461&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
----
-
-
