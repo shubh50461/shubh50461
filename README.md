@@ -1,18 +1,31 @@
-# [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=30&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=700&lines=Hi+there,+I'm+Shubham+Kumar)](https://git.io/typing-svg)
+<div align="center">
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=800&size=40&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=1000&lines=Hi+there,+I'm+Shubham+Kumar;AI+%7C+ML+%7C+Data+Science+Enthusiast;Java+%7C+Python+%7C+Web+Developer)](https://git.io/typing-svg)
+
+</div>
 
 ---
 
 ## 👨‍💻 About Me
-Shubham Kumar
-Artificial Intelligence | Machine Learning | Python Certified | Data Science | Web Development | SQL | Git & GitHub | JAVA | Best Performer of the Month
+
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=900&size=45&duration=2500&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=Shubham+Kumar" />
+</div>
+
+<div align="center">
+
+### Artificial Intelligence | Machine Learning | Python Certified | Data Science | Web Development | SQL | Git & GitHub | JAVA | Best Performer of the Month
+
+</div>
 
 ---
+
 ## 🌐 Connect with Me
+
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_shubham_kumarsingh_) 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shubham50461/) 
 [![CodePen](https://img.shields.io/badge/CodePen-000000?logo=codepen&logoColor=white)](https://codepen.io/tgbrywbv-the-bashful) 
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:shubham50461@gmail.com)
-
 
 ---
 
@@ -38,16 +51,19 @@ Artificial Intelligence | Machine Learning | Python Certified | Data Science | W
 ---
 
 ## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=shubh50461&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![Streak Stats](https://nirzak-streak-stats.vercel.app/?user=shubh50461&theme=dark&hide_border=false)<br/>
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=shubh50461&theme=dark&hide_border=false&include_all_commits=false&count_private=false)  
+![Streak Stats](https://nirzak-streak-stats.vercel.app/?user=shubh50461&theme=dark&hide_border=false)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shubh50461&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
 
 ## 🏆 GitHub Trophies
+
 ![Trophies](https://github-profile-trophy.vercel.app/?username=shubh50461&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ---
 
 ## 🔝 Top Contributed Repositories
+
 ![Top Repos](https://github-contributor-stats.vercel.app/api?username=shubh50461&limit=5&theme=dark&combine_all_yearly_contributions=true)
