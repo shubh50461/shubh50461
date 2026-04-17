@@ -3,6 +3,7 @@
 ---
 
 ## 👨‍💻 About Me
+Shubham Kumar
 Artificial Intelligence | Machine Learning | Python Certified | Data Science | Web Development | SQL | Git & GitHub | JAVA | Best Performer of the Month
 
 ---
