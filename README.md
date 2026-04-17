@@ -9,7 +9,7 @@
 ## 👨‍💻 About Me
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=900&size=45&duration=2500&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=Shubham+Kumar" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=900&size=48&duration=2500&pause=1000&color=8B0000&center=true&vCenter=true&width=1000&lines=🔥+Shubham+Kumar+🔥" />
 </div>
 
 <div align="center">
