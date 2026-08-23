@@ -11,13 +11,13 @@
 
   <!-- Quick Social Pill Badges -->
   <p align="center">
-    <a href="https://www.linkedin.com/in/shubham50461/" target="_blank">
+    <a href="https://www.linkedin.com/in/shubhamku-mar" target="_blank">
       <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
     </a>
     <a href="mailto:shubham50461@gmail.com">
       <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
     </a>
-    <a href="https://instagram.com/_shubham_kumarsingh_" target="_blank">
+    <a href="https://www.instagram.com/_shubham_kumarsingh_/?hl=en" target="_blank">
       <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
     </a>
     <a href="https://github.com/shubh50461?tab=repositories">
@@ -168,8 +168,11 @@
   <a href="mailto:shubham50461@gmail.com">
     <img src="https://img.shields.io/badge/Let's%20Connect-Mail%20Me-58A6FF?style=for-the-badge&logo=maildotru&logoColor=white" alt="Contact Me" />
   </a>
-  <a href="https://www.linkedin.com/in/shubham50461/">
+  <a href="https://www.linkedin.com/in/shubhamku-mar" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Network-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Network" />
+  </a>
+  <a href="https://www.instagram.com/_shubham_kumarsingh_/?hl=en" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
 
   <br/><br/>
