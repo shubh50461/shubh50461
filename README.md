@@ -14,7 +14,7 @@
     <a href="https://www.linkedin.com/in/shubhamku-mar" target="_blank">
       <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
     </a>
-    <a href="mailto:shubham50461@gmail.com">
+    <a href="mailto:shubham50461@gmail.com" target="_blank">
       <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
     </a>
     <a href="https://www.instagram.com/_shubham_kumarsingh_/?hl=en" target="_blank">
@@ -165,11 +165,11 @@
   
   <p>Whether you want to discuss a project, explore AI/Web development opportunities, or just say hi — my inbox is always open!</p>
   
-  <a href="mailto:shubham50461@gmail.com">
-    <img src="https://img.shields.io/badge/Let's%20Connect-Mail%20Me-58A6FF?style=for-the-badge&logo=maildotru&logoColor=white" alt="Contact Me" />
+  <a href="mailto:shubham50461@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Send%20Email-shubham50461%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Send Email" />
   </a>
   <a href="https://www.linkedin.com/in/shubhamku-mar" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Network-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Network" />
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://www.instagram.com/_shubham_kumarsingh_/?hl=en" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
